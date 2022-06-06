@@ -1,0 +1,135 @@
+{
+  "project_info": {
+    "project_number": "290646845733",
+    "firebase_url": "https://brinytoons-cc549-default-rtdb.firebaseio.com",
+    "project_id": "brinytoons-cc549",
+    "storage_bucket": "brinytoons-cc549.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:290646845733:android:429ac12ff8ceaabae112cc",
+        "android_client_info": {
+          "package_name": "com.brinysoft.brinytoons"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "290646845733-5gulpjs60b5hss8opu4ilvahur3vnt6o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.brinysoft.brinytoons",
+            "certificate_hash": "09d083a311afebcc017bc81a9f8890e34c7e0124"
+          }
+        },
+        {
+          "client_id": "290646845733-9o6r0j36prqnctg01jhhte3rhfqkj7fe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCioxYMRHTxvbhLG9pYe_XgkW_y_19te8w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "290646845733-9o6r0j36prqnctg01jhhte3rhfqkj7fe.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "290646845733-f5nhu2qur6s09bdtlogi3t2rbmjekha1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.brinysoft.brinytoons"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:290646845733:android:bcb861b7daef182ae112cc",
+        "android_client_info": {
+          "package_name": "com.example.quiz_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "290646845733-9o6r0j36prqnctg01jhhte3rhfqkj7fe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCioxYMRHTxvbhLG9pYe_XgkW_y_19te8w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "290646845733-9o6r0j36prqnctg01jhhte3rhfqkj7fe.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "290646845733-f5nhu2qur6s09bdtlogi3t2rbmjekha1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.brinysoft.brinytoons"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:290646845733:android:3382b590c2842f7ee112cc",
+        "android_client_info": {
+          "package_name": "com.example.quizzledemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "290646845733-88o03pnertv9tkikcenbrs69lsiotc02.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.quizzledemo",
+            "certificate_hash": "09d083a311afebcc017bc81a9f8890e34c7e0124"
+          }
+        },
+        {
+          "client_id": "290646845733-9o6r0j36prqnctg01jhhte3rhfqkj7fe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCioxYMRHTxvbhLG9pYe_XgkW_y_19te8w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "290646845733-9o6r0j36prqnctg01jhhte3rhfqkj7fe.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "290646845733-f5nhu2qur6s09bdtlogi3t2rbmjekha1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.brinysoft.brinytoons"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
