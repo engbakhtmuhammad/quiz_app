@@ -40,11 +40,3 @@ class MyApp extends StatelessWidget {
 Future<void> initFireBase() async {
   await Firebase.initializeApp();
 }
-
-// void main(List<String> args) async {
-//   WidgetsFlutterBinding.ensureInitialized();
-//   await initFireBase();
-//   runApp(GetMaterialApp(
-//     home: DataUploaderScreen(),
-//   ));
-// }
